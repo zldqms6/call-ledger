@@ -1,0 +1,4202 @@
+[
+{
+"candle_date_time_utc": "2026-10-10T23:50:00",
+"opening_price": 113190000.0,
+"high_price": 113190000.0,
+"low_price": 113082000.0,
+"trade_price": 113082000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T23:40:00",
+"opening_price": 113196000.0,
+"high_price": 113200000.0,
+"low_price": 113146000.0,
+"trade_price": 113190000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T23:30:00",
+"opening_price": 113111000.0,
+"high_price": 113196000.0,
+"low_price": 113091000.0,
+"trade_price": 113196000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T23:20:00",
+"opening_price": 113111000.0,
+"high_price": 113145000.0,
+"low_price": 113066000.0,
+"trade_price": 113111000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T23:10:00",
+"opening_price": 113141000.0,
+"high_price": 113141000.0,
+"low_price": 113069000.0,
+"trade_price": 113111000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T23:00:00",
+"opening_price": 113169000.0,
+"high_price": 113176000.0,
+"low_price": 113141000.0,
+"trade_price": 113141000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T22:50:00",
+"opening_price": 113093000.0,
+"high_price": 113169000.0,
+"low_price": 113055000.0,
+"trade_price": 113169000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T22:40:00",
+"opening_price": 113113000.0,
+"high_price": 113131000.0,
+"low_price": 113049000.0,
+"trade_price": 113055000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T22:30:00",
+"opening_price": 113130000.0,
+"high_price": 113131000.0,
+"low_price": 113107000.0,
+"trade_price": 113115000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T22:20:00",
+"opening_price": 113135000.0,
+"high_price": 113147000.0,
+"low_price": 113108000.0,
+"trade_price": 113131000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T22:10:00",
+"opening_price": 113145000.0,
+"high_price": 113145000.0,
+"low_price": 113097000.0,
+"trade_price": 113138000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T22:00:00",
+"opening_price": 113053000.0,
+"high_price": 113147000.0,
+"low_price": 113048000.0,
+"trade_price": 113145000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T21:50:00",
+"opening_price": 113106000.0,
+"high_price": 113148000.0,
+"low_price": 113053000.0,
+"trade_price": 113053000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T21:40:00",
+"opening_price": 113090000.0,
+"high_price": 113135000.0,
+"low_price": 113090000.0,
+"trade_price": 113106000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T21:30:00",
+"opening_price": 113050000.0,
+"high_price": 113091000.0,
+"low_price": 113050000.0,
+"trade_price": 113091000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T21:20:00",
+"opening_price": 113091000.0,
+"high_price": 113091000.0,
+"low_price": 113048000.0,
+"trade_price": 113050000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T21:10:00",
+"opening_price": 113087000.0,
+"high_price": 113091000.0,
+"low_price": 113007000.0,
+"trade_price": 113090000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T21:00:00",
+"opening_price": 113090000.0,
+"high_price": 113091000.0,
+"low_price": 113000000.0,
+"trade_price": 113089000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T20:50:00",
+"opening_price": 113021000.0,
+"high_price": 113100000.0,
+"low_price": 113001000.0,
+"trade_price": 113094000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T20:40:00",
+"opening_price": 113077000.0,
+"high_price": 113078000.0,
+"low_price": 113021000.0,
+"trade_price": 113021000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T20:30:00",
+"opening_price": 113078000.0,
+"high_price": 113078000.0,
+"low_price": 113060000.0,
+"trade_price": 113060000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T20:20:00",
+"opening_price": 113132000.0,
+"high_price": 113158000.0,
+"low_price": 113076000.0,
+"trade_price": 113078000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T20:10:00",
+"opening_price": 113169000.0,
+"high_price": 113172000.0,
+"low_price": 113075000.0,
+"trade_price": 113132000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T20:00:00",
+"opening_price": 113137000.0,
+"high_price": 113180000.0,
+"low_price": 113073000.0,
+"trade_price": 113177000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T19:50:00",
+"opening_price": 113137000.0,
+"high_price": 113156000.0,
+"low_price": 113051000.0,
+"trade_price": 113137000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T19:40:00",
+"opening_price": 113055000.0,
+"high_price": 113171000.0,
+"low_price": 113042000.0,
+"trade_price": 113137000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T19:30:00",
+"opening_price": 113008000.0,
+"high_price": 113080000.0,
+"low_price": 113001000.0,
+"trade_price": 113055000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T19:20:00",
+"opening_price": 113047000.0,
+"high_price": 113088000.0,
+"low_price": 112983000.0,
+"trade_price": 113008000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T19:10:00",
+"opening_price": 113049000.0,
+"high_price": 113049000.0,
+"low_price": 112976000.0,
+"trade_price": 113047000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T19:00:00",
+"opening_price": 112957000.0,
+"high_price": 113069000.0,
+"low_price": 112957000.0,
+"trade_price": 113049000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T18:50:00",
+"opening_price": 113016000.0,
+"high_price": 113017000.0,
+"low_price": 112945000.0,
+"trade_price": 112945000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T18:40:00",
+"opening_price": 112963000.0,
+"high_price": 113017000.0,
+"low_price": 112925000.0,
+"trade_price": 113016000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T18:30:00",
+"opening_price": 112944000.0,
+"high_price": 113017000.0,
+"low_price": 112944000.0,
+"trade_price": 113004000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T18:20:00",
+"opening_price": 113114000.0,
+"high_price": 113114000.0,
+"low_price": 112943000.0,
+"trade_price": 112944000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T18:10:00",
+"opening_price": 113094000.0,
+"high_price": 113160000.0,
+"low_price": 113038000.0,
+"trade_price": 113117000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T18:00:00",
+"opening_price": 113104000.0,
+"high_price": 113177000.0,
+"low_price": 113001000.0,
+"trade_price": 113160000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T17:50:00",
+"opening_price": 113165000.0,
+"high_price": 113178000.0,
+"low_price": 113104000.0,
+"trade_price": 113104000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T17:40:00",
+"opening_price": 113149000.0,
+"high_price": 113179000.0,
+"low_price": 113094000.0,
+"trade_price": 113175000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T17:30:00",
+"opening_price": 113053000.0,
+"high_price": 113149000.0,
+"low_price": 113005000.0,
+"trade_price": 113090000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T17:20:00",
+"opening_price": 113060000.0,
+"high_price": 113078000.0,
+"low_price": 113001000.0,
+"trade_price": 113059000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T17:10:00",
+"opening_price": 113052000.0,
+"high_price": 113073000.0,
+"low_price": 113000000.0,
+"trade_price": 113060000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T17:00:00",
+"opening_price": 112985000.0,
+"high_price": 113055000.0,
+"low_price": 112926000.0,
+"trade_price": 113052000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T16:50:00",
+"opening_price": 113029000.0,
+"high_price": 113029000.0,
+"low_price": 112925000.0,
+"trade_price": 112985000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T16:40:00",
+"opening_price": 113054000.0,
+"high_price": 113056000.0,
+"low_price": 112928000.0,
+"trade_price": 113029000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T16:30:00",
+"opening_price": 113029000.0,
+"high_price": 113055000.0,
+"low_price": 112922000.0,
+"trade_price": 113054000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T16:20:00",
+"opening_price": 113050000.0,
+"high_price": 113055000.0,
+"low_price": 112947000.0,
+"trade_price": 112947000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T16:10:00",
+"opening_price": 112959000.0,
+"high_price": 113055000.0,
+"low_price": 112906000.0,
+"trade_price": 113054000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T16:00:00",
+"opening_price": 113047000.0,
+"high_price": 113056000.0,
+"low_price": 112940000.0,
+"trade_price": 112948000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T15:50:00",
+"opening_price": 113035000.0,
+"high_price": 113055000.0,
+"low_price": 112940000.0,
+"trade_price": 113047000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T15:40:00",
+"opening_price": 113054000.0,
+"high_price": 113055000.0,
+"low_price": 113034000.0,
+"trade_price": 113034000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T15:30:00",
+"opening_price": 112983000.0,
+"high_price": 113056000.0,
+"low_price": 112983000.0,
+"trade_price": 113054000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T15:20:00",
+"opening_price": 112989000.0,
+"high_price": 113022000.0,
+"low_price": 112946000.0,
+"trade_price": 112983000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T15:10:00",
+"opening_price": 113038000.0,
+"high_price": 113067000.0,
+"low_price": 112946000.0,
+"trade_price": 113028000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T15:00:00",
+"opening_price": 112991000.0,
+"high_price": 113061000.0,
+"low_price": 112991000.0,
+"trade_price": 113053000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T14:50:00",
+"opening_price": 112947000.0,
+"high_price": 113038000.0,
+"low_price": 112890000.0,
+"trade_price": 112991000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T14:40:00",
+"opening_price": 113035000.0,
+"high_price": 113064000.0,
+"low_price": 112947000.0,
+"trade_price": 112980000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T14:30:00",
+"opening_price": 112899000.0,
+"high_price": 113048000.0,
+"low_price": 112830000.0,
+"trade_price": 113035000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T14:20:00",
+"opening_price": 112779000.0,
+"high_price": 112899000.0,
+"low_price": 112754000.0,
+"trade_price": 112899000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T14:10:00",
+"opening_price": 112830000.0,
+"high_price": 112830000.0,
+"low_price": 112765000.0,
+"trade_price": 112780000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T14:00:00",
+"opening_price": 112879000.0,
+"high_price": 112899000.0,
+"low_price": 112805000.0,
+"trade_price": 112829000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T13:50:00",
+"opening_price": 112754000.0,
+"high_price": 112879000.0,
+"low_price": 112754000.0,
+"trade_price": 112879000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T13:40:00",
+"opening_price": 112760000.0,
+"high_price": 112760000.0,
+"low_price": 112722000.0,
+"trade_price": 112755000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T13:30:00",
+"opening_price": 112759000.0,
+"high_price": 112825000.0,
+"low_price": 112754000.0,
+"trade_price": 112760000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T13:20:00",
+"opening_price": 112803000.0,
+"high_price": 112825000.0,
+"low_price": 112743000.0,
+"trade_price": 112754000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T13:10:00",
+"opening_price": 112745000.0,
+"high_price": 112821000.0,
+"low_price": 112725000.0,
+"trade_price": 112803000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T13:00:00",
+"opening_price": 112741000.0,
+"high_price": 112806000.0,
+"low_price": 112740000.0,
+"trade_price": 112745000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T12:50:00",
+"opening_price": 112816000.0,
+"high_price": 112817000.0,
+"low_price": 112740000.0,
+"trade_price": 112740000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T12:40:00",
+"opening_price": 112773000.0,
+"high_price": 112825000.0,
+"low_price": 112765000.0,
+"trade_price": 112822000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T12:30:00",
+"opening_price": 112810000.0,
+"high_price": 112825000.0,
+"low_price": 112773000.0,
+"trade_price": 112773000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T12:20:00",
+"opening_price": 112825000.0,
+"high_price": 112825000.0,
+"low_price": 112770000.0,
+"trade_price": 112788000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T12:10:00",
+"opening_price": 112846000.0,
+"high_price": 112929000.0,
+"low_price": 112802000.0,
+"trade_price": 112825000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T12:00:00",
+"opening_price": 112937000.0,
+"high_price": 112957000.0,
+"low_price": 112790000.0,
+"trade_price": 112846000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T11:50:00",
+"opening_price": 112944000.0,
+"high_price": 112950000.0,
+"low_price": 112901000.0,
+"trade_price": 112938000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T11:40:00",
+"opening_price": 112833000.0,
+"high_price": 112945000.0,
+"low_price": 112833000.0,
+"trade_price": 112901000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T11:30:00",
+"opening_price": 112761000.0,
+"high_price": 112853000.0,
+"low_price": 112761000.0,
+"trade_price": 112832000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T11:20:00",
+"opening_price": 112771000.0,
+"high_price": 112771000.0,
+"low_price": 112761000.0,
+"trade_price": 112771000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T11:10:00",
+"opening_price": 112833000.0,
+"high_price": 112865000.0,
+"low_price": 112770000.0,
+"trade_price": 112771000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T11:00:00",
+"opening_price": 112825000.0,
+"high_price": 112866000.0,
+"low_price": 112779000.0,
+"trade_price": 112795000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T10:50:00",
+"opening_price": 112834000.0,
+"high_price": 112866000.0,
+"low_price": 112769000.0,
+"trade_price": 112858000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T10:40:00",
+"opening_price": 112810000.0,
+"high_price": 112866000.0,
+"low_price": 112790000.0,
+"trade_price": 112863000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T10:30:00",
+"opening_price": 112863000.0,
+"high_price": 112870000.0,
+"low_price": 112811000.0,
+"trade_price": 112811000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T10:20:00",
+"opening_price": 112867000.0,
+"high_price": 112870000.0,
+"low_price": 112818000.0,
+"trade_price": 112863000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T10:10:00",
+"opening_price": 112856000.0,
+"high_price": 112872000.0,
+"low_price": 112814000.0,
+"trade_price": 112867000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T10:00:00",
+"opening_price": 112796000.0,
+"high_price": 112919000.0,
+"low_price": 112788000.0,
+"trade_price": 112861000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T09:50:00",
+"opening_price": 112850000.0,
+"high_price": 112873000.0,
+"low_price": 112788000.0,
+"trade_price": 112816000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T09:40:00",
+"opening_price": 112910000.0,
+"high_price": 112941000.0,
+"low_price": 112850000.0,
+"trade_price": 112850000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T09:30:00",
+"opening_price": 112901000.0,
+"high_price": 112944000.0,
+"low_price": 112801000.0,
+"trade_price": 112907000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T09:20:00",
+"opening_price": 112929000.0,
+"high_price": 112956000.0,
+"low_price": 112840000.0,
+"trade_price": 112901000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T09:10:00",
+"opening_price": 112792000.0,
+"high_price": 112929000.0,
+"low_price": 112777000.0,
+"trade_price": 112929000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T09:00:00",
+"opening_price": 112786000.0,
+"high_price": 112860000.0,
+"low_price": 112783000.0,
+"trade_price": 112792000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T08:50:00",
+"opening_price": 112778000.0,
+"high_price": 112786000.0,
+"low_price": 112778000.0,
+"trade_price": 112785000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T08:40:00",
+"opening_price": 112807000.0,
+"high_price": 112853000.0,
+"low_price": 112778000.0,
+"trade_price": 112780000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T08:30:00",
+"opening_price": 112866000.0,
+"high_price": 112897000.0,
+"low_price": 112783000.0,
+"trade_price": 112810000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T08:20:00",
+"opening_price": 112870000.0,
+"high_price": 112972000.0,
+"low_price": 112864000.0,
+"trade_price": 112866000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T08:10:00",
+"opening_price": 112981000.0,
+"high_price": 112991000.0,
+"low_price": 112864000.0,
+"trade_price": 112890000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T08:00:00",
+"opening_price": 112834000.0,
+"high_price": 112990000.0,
+"low_price": 112815000.0,
+"trade_price": 112987000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T07:50:00",
+"opening_price": 112847000.0,
+"high_price": 112864000.0,
+"low_price": 112753000.0,
+"trade_price": 112841000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T07:40:00",
+"opening_price": 112792000.0,
+"high_price": 112847000.0,
+"low_price": 112735000.0,
+"trade_price": 112776000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T07:30:00",
+"opening_price": 112591000.0,
+"high_price": 112796000.0,
+"low_price": 112559000.0,
+"trade_price": 112735000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T07:20:00",
+"opening_price": 112601000.0,
+"high_price": 112648000.0,
+"low_price": 112557000.0,
+"trade_price": 112624000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T07:10:00",
+"opening_price": 112646000.0,
+"high_price": 112703000.0,
+"low_price": 112600000.0,
+"trade_price": 112601000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T07:00:00",
+"opening_price": 112621000.0,
+"high_price": 112740000.0,
+"low_price": 112620000.0,
+"trade_price": 112646000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T06:50:00",
+"opening_price": 112729000.0,
+"high_price": 112802000.0,
+"low_price": 112623000.0,
+"trade_price": 112623000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T06:40:00",
+"opening_price": 112714000.0,
+"high_price": 112845000.0,
+"low_price": 112700000.0,
+"trade_price": 112729000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T06:30:00",
+"opening_price": 112787000.0,
+"high_price": 112794000.0,
+"low_price": 112707000.0,
+"trade_price": 112707000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T06:20:00",
+"opening_price": 112742000.0,
+"high_price": 112788000.0,
+"low_price": 112726000.0,
+"trade_price": 112788000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T06:10:00",
+"opening_price": 112818000.0,
+"high_price": 112835000.0,
+"low_price": 112725000.0,
+"trade_price": 112742000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T06:00:00",
+"opening_price": 112802000.0,
+"high_price": 112879000.0,
+"low_price": 112763000.0,
+"trade_price": 112818000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T05:50:00",
+"opening_price": 112712000.0,
+"high_price": 112802000.0,
+"low_price": 112711000.0,
+"trade_price": 112802000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T05:40:00",
+"opening_price": 112724000.0,
+"high_price": 112791000.0,
+"low_price": 112701000.0,
+"trade_price": 112712000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T05:30:00",
+"opening_price": 112607000.0,
+"high_price": 112733000.0,
+"low_price": 112603000.0,
+"trade_price": 112705000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T05:20:00",
+"opening_price": 112659000.0,
+"high_price": 112659000.0,
+"low_price": 112607000.0,
+"trade_price": 112607000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T05:10:00",
+"opening_price": 112686000.0,
+"high_price": 112728000.0,
+"low_price": 112655000.0,
+"trade_price": 112656000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T05:00:00",
+"opening_price": 112693000.0,
+"high_price": 112733000.0,
+"low_price": 112686000.0,
+"trade_price": 112686000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T04:50:00",
+"opening_price": 112705000.0,
+"high_price": 112778000.0,
+"low_price": 112688000.0,
+"trade_price": 112691000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T04:40:00",
+"opening_price": 112740000.0,
+"high_price": 112788000.0,
+"low_price": 112680000.0,
+"trade_price": 112778000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T04:30:00",
+"opening_price": 112741000.0,
+"high_price": 112804000.0,
+"low_price": 112740000.0,
+"trade_price": 112740000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T04:20:00",
+"opening_price": 112780000.0,
+"high_price": 112842000.0,
+"low_price": 112740000.0,
+"trade_price": 112741000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T04:10:00",
+"opening_price": 112840000.0,
+"high_price": 112869000.0,
+"low_price": 112774000.0,
+"trade_price": 112779000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T04:00:00",
+"opening_price": 112639000.0,
+"high_price": 112882000.0,
+"low_price": 112634000.0,
+"trade_price": 112876000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T03:50:00",
+"opening_price": 112633000.0,
+"high_price": 112719000.0,
+"low_price": 112633000.0,
+"trade_price": 112639000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T03:40:00",
+"opening_price": 112635000.0,
+"high_price": 112667000.0,
+"low_price": 112633000.0,
+"trade_price": 112636000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T03:30:00",
+"opening_price": 112662000.0,
+"high_price": 112667000.0,
+"low_price": 112630000.0,
+"trade_price": 112635000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T03:20:00",
+"opening_price": 112671000.0,
+"high_price": 112687000.0,
+"low_price": 112650000.0,
+"trade_price": 112662000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T03:10:00",
+"opening_price": 112697000.0,
+"high_price": 112784000.0,
+"low_price": 112662000.0,
+"trade_price": 112671000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T03:00:00",
+"opening_price": 112769000.0,
+"high_price": 112769000.0,
+"low_price": 112695000.0,
+"trade_price": 112697000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T02:50:00",
+"opening_price": 112789000.0,
+"high_price": 112818000.0,
+"low_price": 112763000.0,
+"trade_price": 112763000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T02:40:00",
+"opening_price": 112850000.0,
+"high_price": 112851000.0,
+"low_price": 112775000.0,
+"trade_price": 112789000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T02:30:00",
+"opening_price": 112801000.0,
+"high_price": 112853000.0,
+"low_price": 112770000.0,
+"trade_price": 112850000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T02:20:00",
+"opening_price": 112882000.0,
+"high_price": 112911000.0,
+"low_price": 112800000.0,
+"trade_price": 112801000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T02:10:00",
+"opening_price": 112863000.0,
+"high_price": 112920000.0,
+"low_price": 112863000.0,
+"trade_price": 112870000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T02:00:00",
+"opening_price": 112940000.0,
+"high_price": 112944000.0,
+"low_price": 112860000.0,
+"trade_price": 112867000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T01:50:00",
+"opening_price": 112952000.0,
+"high_price": 112955000.0,
+"low_price": 112860000.0,
+"trade_price": 112876000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T01:40:00",
+"opening_price": 112830000.0,
+"high_price": 112955000.0,
+"low_price": 112822000.0,
+"trade_price": 112952000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T01:30:00",
+"opening_price": 112891000.0,
+"high_price": 112923000.0,
+"low_price": 112824000.0,
+"trade_price": 112830000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T01:20:00",
+"opening_price": 112962000.0,
+"high_price": 112970000.0,
+"low_price": 112834000.0,
+"trade_price": 112935000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T01:10:00",
+"opening_price": 112837000.0,
+"high_price": 112986000.0,
+"low_price": 112810000.0,
+"trade_price": 112953000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T01:00:00",
+"opening_price": 112838000.0,
+"high_price": 112880000.0,
+"low_price": 112802000.0,
+"trade_price": 112840000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T00:50:00",
+"opening_price": 112942000.0,
+"high_price": 112984000.0,
+"low_price": 112800000.0,
+"trade_price": 112805000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T00:40:00",
+"opening_price": 112953000.0,
+"high_price": 113019000.0,
+"low_price": 112927000.0,
+"trade_price": 112927000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T00:30:00",
+"opening_price": 113021000.0,
+"high_price": 113114000.0,
+"low_price": 112951000.0,
+"trade_price": 112953000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T00:20:00",
+"opening_price": 113006000.0,
+"high_price": 113114000.0,
+"low_price": 113001000.0,
+"trade_price": 113080000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T00:10:00",
+"opening_price": 113000000.0,
+"high_price": 113050000.0,
+"low_price": 112954000.0,
+"trade_price": 113005000.0
+},
+{
+"candle_date_time_utc": "2026-10-10T00:00:00",
+"opening_price": 113001000.0,
+"high_price": 113051000.0,
+"low_price": 112950000.0,
+"trade_price": 113000000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T23:50:00",
+"opening_price": 112999000.0,
+"high_price": 113018000.0,
+"low_price": 112992000.0,
+"trade_price": 113001000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T23:40:00",
+"opening_price": 112983000.0,
+"high_price": 113018000.0,
+"low_price": 112928000.0,
+"trade_price": 112999000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T23:30:00",
+"opening_price": 112978000.0,
+"high_price": 113080000.0,
+"low_price": 112929000.0,
+"trade_price": 112983000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T23:20:00",
+"opening_price": 112973000.0,
+"high_price": 113047000.0,
+"low_price": 112896000.0,
+"trade_price": 112978000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T23:10:00",
+"opening_price": 113040000.0,
+"high_price": 113105000.0,
+"low_price": 112900000.0,
+"trade_price": 112973000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T23:00:00",
+"opening_price": 113073000.0,
+"high_price": 113121000.0,
+"low_price": 113000000.0,
+"trade_price": 113097000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T22:50:00",
+"opening_price": 112982000.0,
+"high_price": 113086000.0,
+"low_price": 112981000.0,
+"trade_price": 113073000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T22:40:00",
+"opening_price": 113037000.0,
+"high_price": 113037000.0,
+"low_price": 112948000.0,
+"trade_price": 112982000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T22:30:00",
+"opening_price": 112901000.0,
+"high_price": 113038000.0,
+"low_price": 112895000.0,
+"trade_price": 113020000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T22:20:00",
+"opening_price": 112911000.0,
+"high_price": 112942000.0,
+"low_price": 112805000.0,
+"trade_price": 112901000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T22:10:00",
+"opening_price": 112889000.0,
+"high_price": 112901000.0,
+"low_price": 112716000.0,
+"trade_price": 112901000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T22:00:00",
+"opening_price": 112900000.0,
+"high_price": 112942000.0,
+"low_price": 112707000.0,
+"trade_price": 112812000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T21:50:00",
+"opening_price": 112921000.0,
+"high_price": 112974000.0,
+"low_price": 112900000.0,
+"trade_price": 112942000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T21:40:00",
+"opening_price": 112900000.0,
+"high_price": 112993000.0,
+"low_price": 112900000.0,
+"trade_price": 112921000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T21:30:00",
+"opening_price": 112934000.0,
+"high_price": 112993000.0,
+"low_price": 112900000.0,
+"trade_price": 112960000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T21:20:00",
+"opening_price": 112919000.0,
+"high_price": 113001000.0,
+"low_price": 112900000.0,
+"trade_price": 112934000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T21:10:00",
+"opening_price": 112925000.0,
+"high_price": 113030000.0,
+"low_price": 112861000.0,
+"trade_price": 112919000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T21:00:00",
+"opening_price": 112827000.0,
+"high_price": 112994000.0,
+"low_price": 112751000.0,
+"trade_price": 112925000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T20:50:00",
+"opening_price": 112874000.0,
+"high_price": 112874000.0,
+"low_price": 112770000.0,
+"trade_price": 112827000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T20:40:00",
+"opening_price": 112760000.0,
+"high_price": 112874000.0,
+"low_price": 112708000.0,
+"trade_price": 112799000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T20:30:00",
+"opening_price": 112800000.0,
+"high_price": 112801000.0,
+"low_price": 112707000.0,
+"trade_price": 112760000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T20:20:00",
+"opening_price": 112732000.0,
+"high_price": 112872000.0,
+"low_price": 112713000.0,
+"trade_price": 112745000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T20:10:00",
+"opening_price": 112582000.0,
+"high_price": 112800000.0,
+"low_price": 112578000.0,
+"trade_price": 112732000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T20:00:00",
+"opening_price": 112574000.0,
+"high_price": 112738000.0,
+"low_price": 112574000.0,
+"trade_price": 112578000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T19:50:00",
+"opening_price": 112590000.0,
+"high_price": 112590000.0,
+"low_price": 112572000.0,
+"trade_price": 112589000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T19:40:00",
+"opening_price": 112725000.0,
+"high_price": 112763000.0,
+"low_price": 112589000.0,
+"trade_price": 112589000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T19:30:00",
+"opening_price": 112720000.0,
+"high_price": 112783000.0,
+"low_price": 112706000.0,
+"trade_price": 112707000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T19:20:00",
+"opening_price": 112820000.0,
+"high_price": 112855000.0,
+"low_price": 112706000.0,
+"trade_price": 112720000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T19:10:00",
+"opening_price": 112838000.0,
+"high_price": 112894000.0,
+"low_price": 112757000.0,
+"trade_price": 112820000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T19:00:00",
+"opening_price": 112771000.0,
+"high_price": 112880000.0,
+"low_price": 112705000.0,
+"trade_price": 112838000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T18:50:00",
+"opening_price": 112874000.0,
+"high_price": 112963000.0,
+"low_price": 112756000.0,
+"trade_price": 112756000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T18:40:00",
+"opening_price": 112663000.0,
+"high_price": 112872000.0,
+"low_price": 112601000.0,
+"trade_price": 112804000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T18:30:00",
+"opening_price": 112807000.0,
+"high_price": 112807000.0,
+"low_price": 112590000.0,
+"trade_price": 112680000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T18:20:00",
+"opening_price": 112908000.0,
+"high_price": 112922000.0,
+"low_price": 112807000.0,
+"trade_price": 112807000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T18:10:00",
+"opening_price": 112973000.0,
+"high_price": 113044000.0,
+"low_price": 112870000.0,
+"trade_price": 112909000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T18:00:00",
+"opening_price": 113008000.0,
+"high_price": 113046000.0,
+"low_price": 112937000.0,
+"trade_price": 112973000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T17:50:00",
+"opening_price": 112906000.0,
+"high_price": 113075000.0,
+"low_price": 112905000.0,
+"trade_price": 113008000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T17:40:00",
+"opening_price": 112981000.0,
+"high_price": 112983000.0,
+"low_price": 112882000.0,
+"trade_price": 112983000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T17:30:00",
+"opening_price": 112952000.0,
+"high_price": 113043000.0,
+"low_price": 112882000.0,
+"trade_price": 112981000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T17:20:00",
+"opening_price": 112877000.0,
+"high_price": 112943000.0,
+"low_price": 112735000.0,
+"trade_price": 112943000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T17:10:00",
+"opening_price": 112857000.0,
+"high_price": 112923000.0,
+"low_price": 112800000.0,
+"trade_price": 112879000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T17:00:00",
+"opening_price": 112951000.0,
+"high_price": 112951000.0,
+"low_price": 112855000.0,
+"trade_price": 112857000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T16:50:00",
+"opening_price": 112889000.0,
+"high_price": 113040000.0,
+"low_price": 112889000.0,
+"trade_price": 112951000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T16:40:00",
+"opening_price": 112912000.0,
+"high_price": 113018000.0,
+"low_price": 112846000.0,
+"trade_price": 112883000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T16:30:00",
+"opening_price": 112870000.0,
+"high_price": 113010000.0,
+"low_price": 112843000.0,
+"trade_price": 112910000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T16:20:00",
+"opening_price": 113135000.0,
+"high_price": 113166000.0,
+"low_price": 112870000.0,
+"trade_price": 112870000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T16:10:00",
+"opening_price": 113124000.0,
+"high_price": 113229000.0,
+"low_price": 113059000.0,
+"trade_price": 113135000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T16:00:00",
+"opening_price": 113220000.0,
+"high_price": 113220000.0,
+"low_price": 113010000.0,
+"trade_price": 113061000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T15:50:00",
+"opening_price": 113341000.0,
+"high_price": 113378000.0,
+"low_price": 113190000.0,
+"trade_price": 113200000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T15:40:00",
+"opening_price": 113400000.0,
+"high_price": 113440000.0,
+"low_price": 113311000.0,
+"trade_price": 113346000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T15:30:00",
+"opening_price": 113293000.0,
+"high_price": 113420000.0,
+"low_price": 113270000.0,
+"trade_price": 113412000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T15:20:00",
+"opening_price": 113313000.0,
+"high_price": 113398000.0,
+"low_price": 113270000.0,
+"trade_price": 113293000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T15:10:00",
+"opening_price": 113312000.0,
+"high_price": 113398000.0,
+"low_price": 113237000.0,
+"trade_price": 113314000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T15:00:00",
+"opening_price": 113645000.0,
+"high_price": 113645000.0,
+"low_price": 113309000.0,
+"trade_price": 113310000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T14:50:00",
+"opening_price": 113431000.0,
+"high_price": 113698000.0,
+"low_price": 113347000.0,
+"trade_price": 113610000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T14:40:00",
+"opening_price": 113577000.0,
+"high_price": 113614000.0,
+"low_price": 113420000.0,
+"trade_price": 113429000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T14:30:00",
+"opening_price": 113683000.0,
+"high_price": 113830000.0,
+"low_price": 113577000.0,
+"trade_price": 113577000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T14:20:00",
+"opening_price": 113626000.0,
+"high_price": 113759000.0,
+"low_price": 113595000.0,
+"trade_price": 113683000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T14:10:00",
+"opening_price": 113353000.0,
+"high_price": 113630000.0,
+"low_price": 113225000.0,
+"trade_price": 113626000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T14:00:00",
+"opening_price": 113227000.0,
+"high_price": 113384000.0,
+"low_price": 112987000.0,
+"trade_price": 113353000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T13:50:00",
+"opening_price": 113245000.0,
+"high_price": 113316000.0,
+"low_price": 113152000.0,
+"trade_price": 113227000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T13:40:00",
+"opening_price": 113263000.0,
+"high_price": 113342000.0,
+"low_price": 113078000.0,
+"trade_price": 113245000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T13:30:00",
+"opening_price": 113655000.0,
+"high_price": 113752000.0,
+"low_price": 113000000.0,
+"trade_price": 113235000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T13:20:00",
+"opening_price": 113790000.0,
+"high_price": 113790000.0,
+"low_price": 113576000.0,
+"trade_price": 113600000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T13:10:00",
+"opening_price": 113707000.0,
+"high_price": 113790000.0,
+"low_price": 113612000.0,
+"trade_price": 113790000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T13:00:00",
+"opening_price": 113555000.0,
+"high_price": 113725000.0,
+"low_price": 113509000.0,
+"trade_price": 113707000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T12:50:00",
+"opening_price": 113613000.0,
+"high_price": 113670000.0,
+"low_price": 113404000.0,
+"trade_price": 113528000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T12:40:00",
+"opening_price": 113780000.0,
+"high_price": 113785000.0,
+"low_price": 113587000.0,
+"trade_price": 113613000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T12:30:00",
+"opening_price": 113531000.0,
+"high_price": 113788000.0,
+"low_price": 113530000.0,
+"trade_price": 113770000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T12:20:00",
+"opening_price": 113797000.0,
+"high_price": 113800000.0,
+"low_price": 113518000.0,
+"trade_price": 113533000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T12:10:00",
+"opening_price": 113900000.0,
+"high_price": 114002000.0,
+"low_price": 113678000.0,
+"trade_price": 113793000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T12:00:00",
+"opening_price": 113726000.0,
+"high_price": 113906000.0,
+"low_price": 113679000.0,
+"trade_price": 113900000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T11:50:00",
+"opening_price": 113735000.0,
+"high_price": 113850000.0,
+"low_price": 113554000.0,
+"trade_price": 113726000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T11:40:00",
+"opening_price": 113308000.0,
+"high_price": 113968000.0,
+"low_price": 113238000.0,
+"trade_price": 113735000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T11:30:00",
+"opening_price": 112800000.0,
+"high_price": 113309000.0,
+"low_price": 112730000.0,
+"trade_price": 113309000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T11:20:00",
+"opening_price": 112721000.0,
+"high_price": 112810000.0,
+"low_price": 112674000.0,
+"trade_price": 112803000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T11:10:00",
+"opening_price": 112724000.0,
+"high_price": 112724000.0,
+"low_price": 112656000.0,
+"trade_price": 112721000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T11:00:00",
+"opening_price": 112699000.0,
+"high_price": 112789000.0,
+"low_price": 112669000.0,
+"trade_price": 112724000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T10:50:00",
+"opening_price": 112607000.0,
+"high_price": 112703000.0,
+"low_price": 112580000.0,
+"trade_price": 112698000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T10:40:00",
+"opening_price": 112613000.0,
+"high_price": 112800000.0,
+"low_price": 112525000.0,
+"trade_price": 112607000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T10:30:00",
+"opening_price": 112805000.0,
+"high_price": 112875000.0,
+"low_price": 112613000.0,
+"trade_price": 112613000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T10:20:00",
+"opening_price": 112840000.0,
+"high_price": 112874000.0,
+"low_price": 112800000.0,
+"trade_price": 112805000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T10:10:00",
+"opening_price": 112829000.0,
+"high_price": 112919000.0,
+"low_price": 112820000.0,
+"trade_price": 112868000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T10:00:00",
+"opening_price": 112864000.0,
+"high_price": 112943000.0,
+"low_price": 112823000.0,
+"trade_price": 112857000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T09:50:00",
+"opening_price": 112998000.0,
+"high_price": 113047000.0,
+"low_price": 112864000.0,
+"trade_price": 112864000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T09:40:00",
+"opening_price": 112904000.0,
+"high_price": 113049000.0,
+"low_price": 112868000.0,
+"trade_price": 112901000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T09:30:00",
+"opening_price": 112973000.0,
+"high_price": 113034000.0,
+"low_price": 112871000.0,
+"trade_price": 112900000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T09:20:00",
+"opening_price": 112896000.0,
+"high_price": 113049000.0,
+"low_price": 112815000.0,
+"trade_price": 112927000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T09:10:00",
+"opening_price": 112905000.0,
+"high_price": 112907000.0,
+"low_price": 112815000.0,
+"trade_price": 112896000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T09:00:00",
+"opening_price": 113049000.0,
+"high_price": 113049000.0,
+"low_price": 112907000.0,
+"trade_price": 112907000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T08:50:00",
+"opening_price": 112930000.0,
+"high_price": 113130000.0,
+"low_price": 112929000.0,
+"trade_price": 113049000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T08:40:00",
+"opening_price": 112936000.0,
+"high_price": 113016000.0,
+"low_price": 112908000.0,
+"trade_price": 112994000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T08:30:00",
+"opening_price": 113025000.0,
+"high_price": 113038000.0,
+"low_price": 112901000.0,
+"trade_price": 112910000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T08:20:00",
+"opening_price": 113049000.0,
+"high_price": 113100000.0,
+"low_price": 113025000.0,
+"trade_price": 113065000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T08:10:00",
+"opening_price": 113037000.0,
+"high_price": 113100000.0,
+"low_price": 112993000.0,
+"trade_price": 113049000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T08:00:00",
+"opening_price": 113073000.0,
+"high_price": 113100000.0,
+"low_price": 113001000.0,
+"trade_price": 113037000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T07:50:00",
+"opening_price": 112909000.0,
+"high_price": 113073000.0,
+"low_price": 112909000.0,
+"trade_price": 113070000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T07:40:00",
+"opening_price": 112934000.0,
+"high_price": 112970000.0,
+"low_price": 112901000.0,
+"trade_price": 112943000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T07:30:00",
+"opening_price": 112943000.0,
+"high_price": 113000000.0,
+"low_price": 112900000.0,
+"trade_price": 112901000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T07:20:00",
+"opening_price": 112931000.0,
+"high_price": 113000000.0,
+"low_price": 112918000.0,
+"trade_price": 112933000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T07:10:00",
+"opening_price": 112951000.0,
+"high_price": 113006000.0,
+"low_price": 112900000.0,
+"trade_price": 112931000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T07:00:00",
+"opening_price": 112993000.0,
+"high_price": 113041000.0,
+"low_price": 112940000.0,
+"trade_price": 112950000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T06:50:00",
+"opening_price": 113012000.0,
+"high_price": 113072000.0,
+"low_price": 112978000.0,
+"trade_price": 113000000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T06:40:00",
+"opening_price": 113039000.0,
+"high_price": 113090000.0,
+"low_price": 112999000.0,
+"trade_price": 113012000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T06:30:00",
+"opening_price": 112976000.0,
+"high_price": 113042000.0,
+"low_price": 112939000.0,
+"trade_price": 113039000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T06:20:00",
+"opening_price": 112939000.0,
+"high_price": 113030000.0,
+"low_price": 112900000.0,
+"trade_price": 112976000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T06:10:00",
+"opening_price": 112902000.0,
+"high_price": 113031000.0,
+"low_price": 112852000.0,
+"trade_price": 112905000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T06:00:00",
+"opening_price": 112846000.0,
+"high_price": 112985000.0,
+"low_price": 112820000.0,
+"trade_price": 112922000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T05:50:00",
+"opening_price": 112871000.0,
+"high_price": 112933000.0,
+"low_price": 112847000.0,
+"trade_price": 112847000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T05:40:00",
+"opening_price": 113144000.0,
+"high_price": 113144000.0,
+"low_price": 112850000.0,
+"trade_price": 112876000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T05:30:00",
+"opening_price": 113087000.0,
+"high_price": 113190000.0,
+"low_price": 113086000.0,
+"trade_price": 113143000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T05:20:00",
+"opening_price": 113143000.0,
+"high_price": 113195000.0,
+"low_price": 113026000.0,
+"trade_price": 113087000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T05:10:00",
+"opening_price": 112866000.0,
+"high_price": 113157000.0,
+"low_price": 112860000.0,
+"trade_price": 113143000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T05:00:00",
+"opening_price": 112779000.0,
+"high_price": 112919000.0,
+"low_price": 112751000.0,
+"trade_price": 112841000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T04:50:00",
+"opening_price": 112869000.0,
+"high_price": 112888000.0,
+"low_price": 112772000.0,
+"trade_price": 112779000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T04:40:00",
+"opening_price": 112984000.0,
+"high_price": 112990000.0,
+"low_price": 112869000.0,
+"trade_price": 112887000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T04:30:00",
+"opening_price": 113018000.0,
+"high_price": 113040000.0,
+"low_price": 112945000.0,
+"trade_price": 112990000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T04:20:00",
+"opening_price": 113170000.0,
+"high_price": 113170000.0,
+"low_price": 113000000.0,
+"trade_price": 113019000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T04:10:00",
+"opening_price": 113168000.0,
+"high_price": 113170000.0,
+"low_price": 113144000.0,
+"trade_price": 113170000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T04:00:00",
+"opening_price": 113150000.0,
+"high_price": 113195000.0,
+"low_price": 113096000.0,
+"trade_price": 113168000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T03:50:00",
+"opening_price": 113094000.0,
+"high_price": 113150000.0,
+"low_price": 113092000.0,
+"trade_price": 113113000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T03:40:00",
+"opening_price": 112919000.0,
+"high_price": 113140000.0,
+"low_price": 112915000.0,
+"trade_price": 113137000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T03:30:00",
+"opening_price": 112957000.0,
+"high_price": 112990000.0,
+"low_price": 112907000.0,
+"trade_price": 112919000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T03:20:00",
+"opening_price": 112843000.0,
+"high_price": 113042000.0,
+"low_price": 112842000.0,
+"trade_price": 112958000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T03:10:00",
+"opening_price": 112888000.0,
+"high_price": 112897000.0,
+"low_price": 112824000.0,
+"trade_price": 112885000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T03:00:00",
+"opening_price": 112909000.0,
+"high_price": 112968000.0,
+"low_price": 112820000.0,
+"trade_price": 112888000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T02:50:00",
+"opening_price": 112881000.0,
+"high_price": 113133000.0,
+"low_price": 112868000.0,
+"trade_price": 112909000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T02:40:00",
+"opening_price": 112781000.0,
+"high_price": 112940000.0,
+"low_price": 112781000.0,
+"trade_price": 112882000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T02:30:00",
+"opening_price": 112828000.0,
+"high_price": 112880000.0,
+"low_price": 112739000.0,
+"trade_price": 112781000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T02:20:00",
+"opening_price": 112929000.0,
+"high_price": 112942000.0,
+"low_price": 112782000.0,
+"trade_price": 112809000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T02:10:00",
+"opening_price": 113000000.0,
+"high_price": 113000000.0,
+"low_price": 112886000.0,
+"trade_price": 112905000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T02:00:00",
+"opening_price": 112855000.0,
+"high_price": 113000000.0,
+"low_price": 112838000.0,
+"trade_price": 112999000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T01:50:00",
+"opening_price": 112790000.0,
+"high_price": 112882000.0,
+"low_price": 112763000.0,
+"trade_price": 112855000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T01:40:00",
+"opening_price": 112600000.0,
+"high_price": 112850000.0,
+"low_price": 112600000.0,
+"trade_price": 112790000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T01:30:00",
+"opening_price": 112665000.0,
+"high_price": 112726000.0,
+"low_price": 112514000.0,
+"trade_price": 112622000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T01:20:00",
+"opening_price": 112459000.0,
+"high_price": 112727000.0,
+"low_price": 112410000.0,
+"trade_price": 112668000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T01:10:00",
+"opening_price": 112615000.0,
+"high_price": 112620000.0,
+"low_price": 112450000.0,
+"trade_price": 112458000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T01:00:00",
+"opening_price": 112601000.0,
+"high_price": 112727000.0,
+"low_price": 112535000.0,
+"trade_price": 112615000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T00:50:00",
+"opening_price": 112696000.0,
+"high_price": 112731000.0,
+"low_price": 112534000.0,
+"trade_price": 112600000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T00:40:00",
+"opening_price": 112514000.0,
+"high_price": 112696000.0,
+"low_price": 112514000.0,
+"trade_price": 112687000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T00:30:00",
+"opening_price": 112453000.0,
+"high_price": 112580000.0,
+"low_price": 112452000.0,
+"trade_price": 112515000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T00:20:00",
+"opening_price": 112473000.0,
+"high_price": 112495000.0,
+"low_price": 112452000.0,
+"trade_price": 112453000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T00:10:00",
+"opening_price": 112499000.0,
+"high_price": 112550000.0,
+"low_price": 112473000.0,
+"trade_price": 112473000.0
+},
+{
+"candle_date_time_utc": "2026-10-09T00:00:00",
+"opening_price": 112360000.0,
+"high_price": 112500000.0,
+"low_price": 112290000.0,
+"trade_price": 112499000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T23:50:00",
+"opening_price": 112318000.0,
+"high_price": 112372000.0,
+"low_price": 112290000.0,
+"trade_price": 112360000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T23:40:00",
+"opening_price": 112491000.0,
+"high_price": 112499000.0,
+"low_price": 112312000.0,
+"trade_price": 112370000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T23:30:00",
+"opening_price": 112398000.0,
+"high_price": 112499000.0,
+"low_price": 112393000.0,
+"trade_price": 112491000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T23:20:00",
+"opening_price": 112350000.0,
+"high_price": 112485000.0,
+"low_price": 112318000.0,
+"trade_price": 112398000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T23:10:00",
+"opening_price": 112349000.0,
+"high_price": 112400000.0,
+"low_price": 112316000.0,
+"trade_price": 112349000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T23:00:00",
+"opening_price": 112290000.0,
+"high_price": 112350000.0,
+"low_price": 112290000.0,
+"trade_price": 112349000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T22:50:00",
+"opening_price": 112270000.0,
+"high_price": 112291000.0,
+"low_price": 112250000.0,
+"trade_price": 112290000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T22:40:00",
+"opening_price": 112208000.0,
+"high_price": 112291000.0,
+"low_price": 112188000.0,
+"trade_price": 112280000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T22:30:00",
+"opening_price": 112200000.0,
+"high_price": 112210000.0,
+"low_price": 112140000.0,
+"trade_price": 112208000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T22:20:00",
+"opening_price": 112174000.0,
+"high_price": 112237000.0,
+"low_price": 112090000.0,
+"trade_price": 112200000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T22:10:00",
+"opening_price": 112050000.0,
+"high_price": 112203000.0,
+"low_price": 112001000.0,
+"trade_price": 112203000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T22:00:00",
+"opening_price": 112002000.0,
+"high_price": 112050000.0,
+"low_price": 111950000.0,
+"trade_price": 112050000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T21:50:00",
+"opening_price": 111922000.0,
+"high_price": 112003000.0,
+"low_price": 111898000.0,
+"trade_price": 111979000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T21:40:00",
+"opening_price": 112067000.0,
+"high_price": 112114000.0,
+"low_price": 111921000.0,
+"trade_price": 111921000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T21:30:00",
+"opening_price": 111921000.0,
+"high_price": 112106000.0,
+"low_price": 111910000.0,
+"trade_price": 112087000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T21:20:00",
+"opening_price": 112076000.0,
+"high_price": 112076000.0,
+"low_price": 111882000.0,
+"trade_price": 111921000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T21:10:00",
+"opening_price": 111957000.0,
+"high_price": 112155000.0,
+"low_price": 111955000.0,
+"trade_price": 112076000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T21:00:00",
+"opening_price": 112254000.0,
+"high_price": 112254000.0,
+"low_price": 111957000.0,
+"trade_price": 111957000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T20:50:00",
+"opening_price": 112209000.0,
+"high_price": 112258000.0,
+"low_price": 112140000.0,
+"trade_price": 112254000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T20:40:00",
+"opening_price": 112228000.0,
+"high_price": 112287000.0,
+"low_price": 112171000.0,
+"trade_price": 112215000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T20:30:00",
+"opening_price": 112226000.0,
+"high_price": 112228000.0,
+"low_price": 112082000.0,
+"trade_price": 112228000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T20:20:00",
+"opening_price": 112235000.0,
+"high_price": 112271000.0,
+"low_price": 112150000.0,
+"trade_price": 112223000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T20:10:00",
+"opening_price": 112230000.0,
+"high_price": 112291000.0,
+"low_price": 112230000.0,
+"trade_price": 112235000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T20:00:00",
+"opening_price": 112220000.0,
+"high_price": 112292000.0,
+"low_price": 112133000.0,
+"trade_price": 112290000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T19:50:00",
+"opening_price": 112168000.0,
+"high_price": 112220000.0,
+"low_price": 112160000.0,
+"trade_price": 112220000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T19:40:00",
+"opening_price": 112292000.0,
+"high_price": 112292000.0,
+"low_price": 112160000.0,
+"trade_price": 112169000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T19:30:00",
+"opening_price": 112150000.0,
+"high_price": 112300000.0,
+"low_price": 112140000.0,
+"trade_price": 112292000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T19:20:00",
+"opening_price": 112019000.0,
+"high_price": 112150000.0,
+"low_price": 111953000.0,
+"trade_price": 112150000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T19:10:00",
+"opening_price": 111820000.0,
+"high_price": 112019000.0,
+"low_price": 111818000.0,
+"trade_price": 112019000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T19:00:00",
+"opening_price": 111951000.0,
+"high_price": 112049000.0,
+"low_price": 111818000.0,
+"trade_price": 111826000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T18:50:00",
+"opening_price": 111922000.0,
+"high_price": 111951000.0,
+"low_price": 111892000.0,
+"trade_price": 111951000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T18:40:00",
+"opening_price": 111997000.0,
+"high_price": 111997000.0,
+"low_price": 111903000.0,
+"trade_price": 111922000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T18:30:00",
+"opening_price": 111999000.0,
+"high_price": 112101000.0,
+"low_price": 111785000.0,
+"trade_price": 111990000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T18:20:00",
+"opening_price": 111500000.0,
+"high_price": 112038000.0,
+"low_price": 111500000.0,
+"trade_price": 111959000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T18:10:00",
+"opening_price": 111148000.0,
+"high_price": 111502000.0,
+"low_price": 111093000.0,
+"trade_price": 111500000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T18:00:00",
+"opening_price": 111225000.0,
+"high_price": 111298000.0,
+"low_price": 111026000.0,
+"trade_price": 111128000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T17:50:00",
+"opening_price": 111145000.0,
+"high_price": 111348000.0,
+"low_price": 111000000.0,
+"trade_price": 111221000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T17:40:00",
+"opening_price": 111570000.0,
+"high_price": 111570000.0,
+"low_price": 111110000.0,
+"trade_price": 111112000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T17:30:00",
+"opening_price": 111343000.0,
+"high_price": 111570000.0,
+"low_price": 111341000.0,
+"trade_price": 111560000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T17:20:00",
+"opening_price": 111300000.0,
+"high_price": 111348000.0,
+"low_price": 111000000.0,
+"trade_price": 111293000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T17:10:00",
+"opening_price": 111282000.0,
+"high_price": 111454000.0,
+"low_price": 111121000.0,
+"trade_price": 111300000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T17:00:00",
+"opening_price": 111355000.0,
+"high_price": 111454000.0,
+"low_price": 111111000.0,
+"trade_price": 111282000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T16:50:00",
+"opening_price": 111532000.0,
+"high_price": 111532000.0,
+"low_price": 111300000.0,
+"trade_price": 111355000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T16:40:00",
+"opening_price": 111799000.0,
+"high_price": 111922000.0,
+"low_price": 111513000.0,
+"trade_price": 111513000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T16:30:00",
+"opening_price": 111863000.0,
+"high_price": 111863000.0,
+"low_price": 111600000.0,
+"trade_price": 111805000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T16:20:00",
+"opening_price": 111934000.0,
+"high_price": 112017000.0,
+"low_price": 111800000.0,
+"trade_price": 111863000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T16:10:00",
+"opening_price": 111744000.0,
+"high_price": 112000000.0,
+"low_price": 111513000.0,
+"trade_price": 111992000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T16:00:00",
+"opening_price": 111635000.0,
+"high_price": 111829000.0,
+"low_price": 111513000.0,
+"trade_price": 111709000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T15:50:00",
+"opening_price": 111977000.0,
+"high_price": 112149000.0,
+"low_price": 111620000.0,
+"trade_price": 111640000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T15:40:00",
+"opening_price": 111962000.0,
+"high_price": 112010000.0,
+"low_price": 111709000.0,
+"trade_price": 111977000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T15:30:00",
+"opening_price": 111761000.0,
+"high_price": 112034000.0,
+"low_price": 111623000.0,
+"trade_price": 111962000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T15:20:00",
+"opening_price": 112225000.0,
+"high_price": 112265000.0,
+"low_price": 111619000.0,
+"trade_price": 111761000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T15:10:00",
+"opening_price": 112496000.0,
+"high_price": 112496000.0,
+"low_price": 112085000.0,
+"trade_price": 112228000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T15:00:00",
+"opening_price": 112802000.0,
+"high_price": 112811000.0,
+"low_price": 112490000.0,
+"trade_price": 112496000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T14:50:00",
+"opening_price": 112770000.0,
+"high_price": 112806000.0,
+"low_price": 112637000.0,
+"trade_price": 112806000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T14:40:00",
+"opening_price": 112604000.0,
+"high_price": 112777000.0,
+"low_price": 112532000.0,
+"trade_price": 112767000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T14:30:00",
+"opening_price": 112735000.0,
+"high_price": 112762000.0,
+"low_price": 112603000.0,
+"trade_price": 112604000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T14:20:00",
+"opening_price": 112556000.0,
+"high_price": 112735000.0,
+"low_price": 112495000.0,
+"trade_price": 112735000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T14:10:00",
+"opening_price": 112442000.0,
+"high_price": 112726000.0,
+"low_price": 112405000.0,
+"trade_price": 112556000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T14:00:00",
+"opening_price": 112297000.0,
+"high_price": 112639000.0,
+"low_price": 112177000.0,
+"trade_price": 112442000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T13:50:00",
+"opening_price": 112237000.0,
+"high_price": 112395000.0,
+"low_price": 112077000.0,
+"trade_price": 112251000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T13:40:00",
+"opening_price": 112250000.0,
+"high_price": 112300000.0,
+"low_price": 112000000.0,
+"trade_price": 112237000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T13:30:00",
+"opening_price": 112592000.0,
+"high_price": 112700000.0,
+"low_price": 112216000.0,
+"trade_price": 112250000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T13:20:00",
+"opening_price": 112877000.0,
+"high_price": 112899000.0,
+"low_price": 112556000.0,
+"trade_price": 112592000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T13:10:00",
+"opening_price": 112613000.0,
+"high_price": 112900000.0,
+"low_price": 112613000.0,
+"trade_price": 112877000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T13:00:00",
+"opening_price": 112442000.0,
+"high_price": 112709000.0,
+"low_price": 112236000.0,
+"trade_price": 112646000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T12:50:00",
+"opening_price": 112376000.0,
+"high_price": 112599000.0,
+"low_price": 112101000.0,
+"trade_price": 112442000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T12:40:00",
+"opening_price": 112398000.0,
+"high_price": 112498000.0,
+"low_price": 112376000.0,
+"trade_price": 112376000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T12:30:00",
+"opening_price": 112564000.0,
+"high_price": 112610000.0,
+"low_price": 112377000.0,
+"trade_price": 112398000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T12:20:00",
+"opening_price": 112501000.0,
+"high_price": 112609000.0,
+"low_price": 112468000.0,
+"trade_price": 112564000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T12:10:00",
+"opening_price": 112600000.0,
+"high_price": 112609000.0,
+"low_price": 112461000.0,
+"trade_price": 112501000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T12:00:00",
+"opening_price": 112614000.0,
+"high_price": 112650000.0,
+"low_price": 112400000.0,
+"trade_price": 112600000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T11:50:00",
+"opening_price": 112730000.0,
+"high_price": 112789000.0,
+"low_price": 112610000.0,
+"trade_price": 112650000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T11:40:00",
+"opening_price": 112669000.0,
+"high_price": 112916000.0,
+"low_price": 112669000.0,
+"trade_price": 112730000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T11:30:00",
+"opening_price": 112797000.0,
+"high_price": 112900000.0,
+"low_price": 112609000.0,
+"trade_price": 112669000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T11:20:00",
+"opening_price": 112630000.0,
+"high_price": 112800000.0,
+"low_price": 112608000.0,
+"trade_price": 112797000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T11:10:00",
+"opening_price": 112633000.0,
+"high_price": 112700000.0,
+"low_price": 112500000.0,
+"trade_price": 112630000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T11:00:00",
+"opening_price": 112929000.0,
+"high_price": 112939000.0,
+"low_price": 112633000.0,
+"trade_price": 112633000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T10:50:00",
+"opening_price": 112808000.0,
+"high_price": 112930000.0,
+"low_price": 112781000.0,
+"trade_price": 112929000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T10:40:00",
+"opening_price": 112870000.0,
+"high_price": 112876000.0,
+"low_price": 112725000.0,
+"trade_price": 112841000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T10:30:00",
+"opening_price": 112920000.0,
+"high_price": 113049000.0,
+"low_price": 112850000.0,
+"trade_price": 112870000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T10:20:00",
+"opening_price": 113210000.0,
+"high_price": 113242000.0,
+"low_price": 112884000.0,
+"trade_price": 112887000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T10:10:00",
+"opening_price": 113277000.0,
+"high_price": 113333000.0,
+"low_price": 113191000.0,
+"trade_price": 113213000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T10:00:00",
+"opening_price": 113267000.0,
+"high_price": 113382000.0,
+"low_price": 113169000.0,
+"trade_price": 113277000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T09:50:00",
+"opening_price": 113303000.0,
+"high_price": 113304000.0,
+"low_price": 113207000.0,
+"trade_price": 113220000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T09:40:00",
+"opening_price": 113352000.0,
+"high_price": 113389000.0,
+"low_price": 113257000.0,
+"trade_price": 113303000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T09:30:00",
+"opening_price": 113138000.0,
+"high_price": 113380000.0,
+"low_price": 113100000.0,
+"trade_price": 113353000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T09:20:00",
+"opening_price": 113001000.0,
+"high_price": 113139000.0,
+"low_price": 112958000.0,
+"trade_price": 113137000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T09:10:00",
+"opening_price": 112991000.0,
+"high_price": 113044000.0,
+"low_price": 112835000.0,
+"trade_price": 112956000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T09:00:00",
+"opening_price": 112760000.0,
+"high_price": 112991000.0,
+"low_price": 112722000.0,
+"trade_price": 112991000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T08:50:00",
+"opening_price": 112808000.0,
+"high_price": 112846000.0,
+"low_price": 112700000.0,
+"trade_price": 112760000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T08:40:00",
+"opening_price": 112748000.0,
+"high_price": 112898000.0,
+"low_price": 112630000.0,
+"trade_price": 112847000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T08:30:00",
+"opening_price": 112896000.0,
+"high_price": 112900000.0,
+"low_price": 112676000.0,
+"trade_price": 112748000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T08:20:00",
+"opening_price": 112896000.0,
+"high_price": 112921000.0,
+"low_price": 112865000.0,
+"trade_price": 112895000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T08:10:00",
+"opening_price": 112951000.0,
+"high_price": 112955000.0,
+"low_price": 112810000.0,
+"trade_price": 112921000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T08:00:00",
+"opening_price": 112917000.0,
+"high_price": 112955000.0,
+"low_price": 112822000.0,
+"trade_price": 112951000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T07:50:00",
+"opening_price": 112921000.0,
+"high_price": 112980000.0,
+"low_price": 112835000.0,
+"trade_price": 112918000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T07:40:00",
+"opening_price": 113000000.0,
+"high_price": 113050000.0,
+"low_price": 112920000.0,
+"trade_price": 112921000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T07:30:00",
+"opening_price": 113007000.0,
+"high_price": 113100000.0,
+"low_price": 112989000.0,
+"trade_price": 113000000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T07:20:00",
+"opening_price": 113011000.0,
+"high_price": 113133000.0,
+"low_price": 112955000.0,
+"trade_price": 112997000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T07:10:00",
+"opening_price": 112832000.0,
+"high_price": 113011000.0,
+"low_price": 112818000.0,
+"trade_price": 113011000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T07:00:00",
+"opening_price": 112709000.0,
+"high_price": 112832000.0,
+"low_price": 112546000.0,
+"trade_price": 112832000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T06:50:00",
+"opening_price": 112580000.0,
+"high_price": 112782000.0,
+"low_price": 112541000.0,
+"trade_price": 112709000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T06:40:00",
+"opening_price": 112447000.0,
+"high_price": 112590000.0,
+"low_price": 112427000.0,
+"trade_price": 112580000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T06:30:00",
+"opening_price": 112495000.0,
+"high_price": 112532000.0,
+"low_price": 112400000.0,
+"trade_price": 112441000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T06:20:00",
+"opening_price": 112776000.0,
+"high_price": 112843000.0,
+"low_price": 112448000.0,
+"trade_price": 112495000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T06:10:00",
+"opening_price": 112756000.0,
+"high_price": 112867000.0,
+"low_price": 112741000.0,
+"trade_price": 112741000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T06:00:00",
+"opening_price": 112485000.0,
+"high_price": 112764000.0,
+"low_price": 112472000.0,
+"trade_price": 112755000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T05:50:00",
+"opening_price": 112756000.0,
+"high_price": 112756000.0,
+"low_price": 112485000.0,
+"trade_price": 112485000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T05:40:00",
+"opening_price": 112905000.0,
+"high_price": 112905000.0,
+"low_price": 112731000.0,
+"trade_price": 112755000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T05:30:00",
+"opening_price": 112824000.0,
+"high_price": 112919000.0,
+"low_price": 112737000.0,
+"trade_price": 112907000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T05:20:00",
+"opening_price": 112676000.0,
+"high_price": 112850000.0,
+"low_price": 112675000.0,
+"trade_price": 112823000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T05:10:00",
+"opening_price": 112390000.0,
+"high_price": 112676000.0,
+"low_price": 112389000.0,
+"trade_price": 112676000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T05:00:00",
+"opening_price": 112410000.0,
+"high_price": 112518000.0,
+"low_price": 112315000.0,
+"trade_price": 112400000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T04:50:00",
+"opening_price": 112251000.0,
+"high_price": 112498000.0,
+"low_price": 112230000.0,
+"trade_price": 112410000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T04:40:00",
+"opening_price": 112411000.0,
+"high_price": 112415000.0,
+"low_price": 112131000.0,
+"trade_price": 112229000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T04:30:00",
+"opening_price": 112802000.0,
+"high_price": 112822000.0,
+"low_price": 112381000.0,
+"trade_price": 112413000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T04:20:00",
+"opening_price": 112350000.0,
+"high_price": 112813000.0,
+"low_price": 112055000.0,
+"trade_price": 112802000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T04:10:00",
+"opening_price": 112511000.0,
+"high_price": 112559000.0,
+"low_price": 112350000.0,
+"trade_price": 112350000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T04:00:00",
+"opening_price": 112503000.0,
+"high_price": 112559000.0,
+"low_price": 112347000.0,
+"trade_price": 112511000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T03:50:00",
+"opening_price": 112627000.0,
+"high_price": 112628000.0,
+"low_price": 112480000.0,
+"trade_price": 112505000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T03:40:00",
+"opening_price": 112667000.0,
+"high_price": 112668000.0,
+"low_price": 112580000.0,
+"trade_price": 112600000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T03:30:00",
+"opening_price": 112888000.0,
+"high_price": 112906000.0,
+"low_price": 112654000.0,
+"trade_price": 112667000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T03:20:00",
+"opening_price": 112767000.0,
+"high_price": 112959000.0,
+"low_price": 112550000.0,
+"trade_price": 112888000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T03:10:00",
+"opening_price": 112850000.0,
+"high_price": 112885000.0,
+"low_price": 112750000.0,
+"trade_price": 112767000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T03:00:00",
+"opening_price": 113067000.0,
+"high_price": 113106000.0,
+"low_price": 112849000.0,
+"trade_price": 112850000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T02:50:00",
+"opening_price": 113182000.0,
+"high_price": 113182000.0,
+"low_price": 113032000.0,
+"trade_price": 113070000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T02:40:00",
+"opening_price": 113171000.0,
+"high_price": 113260000.0,
+"low_price": 113126000.0,
+"trade_price": 113182000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T02:30:00",
+"opening_price": 113127000.0,
+"high_price": 113182000.0,
+"low_price": 113125000.0,
+"trade_price": 113171000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T02:20:00",
+"opening_price": 112950000.0,
+"high_price": 113147000.0,
+"low_price": 112940000.0,
+"trade_price": 113129000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T02:10:00",
+"opening_price": 113000000.0,
+"high_price": 113042000.0,
+"low_price": 112850000.0,
+"trade_price": 112950000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T02:00:00",
+"opening_price": 113061000.0,
+"high_price": 113166000.0,
+"low_price": 113000000.0,
+"trade_price": 113001000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T01:50:00",
+"opening_price": 113225000.0,
+"high_price": 113225000.0,
+"low_price": 113060000.0,
+"trade_price": 113061000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T01:40:00",
+"opening_price": 113291000.0,
+"high_price": 113291000.0,
+"low_price": 113143000.0,
+"trade_price": 113171000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T01:30:00",
+"opening_price": 113226000.0,
+"high_price": 113470000.0,
+"low_price": 113152000.0,
+"trade_price": 113291000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T01:20:00",
+"opening_price": 113350000.0,
+"high_price": 113351000.0,
+"low_price": 113132000.0,
+"trade_price": 113226000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T01:10:00",
+"opening_price": 113495000.0,
+"high_price": 113495000.0,
+"low_price": 113341000.0,
+"trade_price": 113351000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T01:00:00",
+"opening_price": 113309000.0,
+"high_price": 113524000.0,
+"low_price": 113280000.0,
+"trade_price": 113495000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T00:50:00",
+"opening_price": 113234000.0,
+"high_price": 113336000.0,
+"low_price": 113164000.0,
+"trade_price": 113287000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T00:40:00",
+"opening_price": 113200000.0,
+"high_price": 113235000.0,
+"low_price": 113060000.0,
+"trade_price": 113234000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T00:30:00",
+"opening_price": 113156000.0,
+"high_price": 113306000.0,
+"low_price": 113131000.0,
+"trade_price": 113200000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T00:20:00",
+"opening_price": 113383000.0,
+"high_price": 113400000.0,
+"low_price": 113100000.0,
+"trade_price": 113157000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T00:10:00",
+"opening_price": 113383000.0,
+"high_price": 113427000.0,
+"low_price": 113263000.0,
+"trade_price": 113384000.0
+},
+{
+"candle_date_time_utc": "2026-10-08T00:00:00",
+"opening_price": 113548000.0,
+"high_price": 113548000.0,
+"low_price": 113370000.0,
+"trade_price": 113383000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T23:50:00",
+"opening_price": 113598000.0,
+"high_price": 113598000.0,
+"low_price": 113511000.0,
+"trade_price": 113548000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T23:40:00",
+"opening_price": 113733000.0,
+"high_price": 113733000.0,
+"low_price": 113597000.0,
+"trade_price": 113598000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T23:30:00",
+"opening_price": 113775000.0,
+"high_price": 113781000.0,
+"low_price": 113699000.0,
+"trade_price": 113730000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T23:20:00",
+"opening_price": 113679000.0,
+"high_price": 113787000.0,
+"low_price": 113610000.0,
+"trade_price": 113775000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T23:10:00",
+"opening_price": 113600000.0,
+"high_price": 113700000.0,
+"low_price": 113530000.0,
+"trade_price": 113679000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T23:00:00",
+"opening_price": 113613000.0,
+"high_price": 113692000.0,
+"low_price": 113588000.0,
+"trade_price": 113598000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T22:50:00",
+"opening_price": 113700000.0,
+"high_price": 113700000.0,
+"low_price": 113600000.0,
+"trade_price": 113613000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T22:40:00",
+"opening_price": 113738000.0,
+"high_price": 113766000.0,
+"low_price": 113650000.0,
+"trade_price": 113700000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T22:30:00",
+"opening_price": 113698000.0,
+"high_price": 113788000.0,
+"low_price": 113650000.0,
+"trade_price": 113738000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T22:20:00",
+"opening_price": 113588000.0,
+"high_price": 113698000.0,
+"low_price": 113579000.0,
+"trade_price": 113698000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T22:10:00",
+"opening_price": 113689000.0,
+"high_price": 113796000.0,
+"low_price": 113588000.0,
+"trade_price": 113588000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T22:00:00",
+"opening_price": 113540000.0,
+"high_price": 113690000.0,
+"low_price": 113539000.0,
+"trade_price": 113690000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T21:50:00",
+"opening_price": 113607000.0,
+"high_price": 113607000.0,
+"low_price": 113528000.0,
+"trade_price": 113540000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T21:40:00",
+"opening_price": 113750000.0,
+"high_price": 113750000.0,
+"low_price": 113607000.0,
+"trade_price": 113607000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T21:30:00",
+"opening_price": 113758000.0,
+"high_price": 113786000.0,
+"low_price": 113704000.0,
+"trade_price": 113704000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T21:20:00",
+"opening_price": 113780000.0,
+"high_price": 113842000.0,
+"low_price": 113704000.0,
+"trade_price": 113758000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T21:10:00",
+"opening_price": 113716000.0,
+"high_price": 113793000.0,
+"low_price": 113714000.0,
+"trade_price": 113780000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T21:00:00",
+"opening_price": 113776000.0,
+"high_price": 113843000.0,
+"low_price": 113712000.0,
+"trade_price": 113716000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T20:50:00",
+"opening_price": 113770000.0,
+"high_price": 113843000.0,
+"low_price": 113710000.0,
+"trade_price": 113776000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T20:40:00",
+"opening_price": 113706000.0,
+"high_price": 113770000.0,
+"low_price": 113700000.0,
+"trade_price": 113770000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T20:30:00",
+"opening_price": 114015000.0,
+"high_price": 114060000.0,
+"low_price": 113700000.0,
+"trade_price": 113708000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T20:20:00",
+"opening_price": 114076000.0,
+"high_price": 114077000.0,
+"low_price": 114010000.0,
+"trade_price": 114015000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T20:10:00",
+"opening_price": 114000000.0,
+"high_price": 114124000.0,
+"low_price": 114000000.0,
+"trade_price": 114077000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T20:00:00",
+"opening_price": 113801000.0,
+"high_price": 114000000.0,
+"low_price": 113795000.0,
+"trade_price": 114000000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T19:50:00",
+"opening_price": 113780000.0,
+"high_price": 113807000.0,
+"low_price": 113705000.0,
+"trade_price": 113807000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T19:40:00",
+"opening_price": 113722000.0,
+"high_price": 113806000.0,
+"low_price": 113643000.0,
+"trade_price": 113761000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T19:30:00",
+"opening_price": 113800000.0,
+"high_price": 113800000.0,
+"low_price": 113643000.0,
+"trade_price": 113720000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T19:20:00",
+"opening_price": 113807000.0,
+"high_price": 113807000.0,
+"low_price": 113761000.0,
+"trade_price": 113799000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T19:10:00",
+"opening_price": 113732000.0,
+"high_price": 113821000.0,
+"low_price": 113727000.0,
+"trade_price": 113807000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T19:00:00",
+"opening_price": 113797000.0,
+"high_price": 113850000.0,
+"low_price": 113731000.0,
+"trade_price": 113732000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T18:50:00",
+"opening_price": 113686000.0,
+"high_price": 113800000.0,
+"low_price": 113686000.0,
+"trade_price": 113795000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T18:40:00",
+"opening_price": 113581000.0,
+"high_price": 113709000.0,
+"low_price": 113525000.0,
+"trade_price": 113684000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T18:30:00",
+"opening_price": 113582000.0,
+"high_price": 113582000.0,
+"low_price": 113528000.0,
+"trade_price": 113581000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T18:20:00",
+"opening_price": 113575000.0,
+"high_price": 113582000.0,
+"low_price": 113490000.0,
+"trade_price": 113582000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T18:10:00",
+"opening_price": 113679000.0,
+"high_price": 113685000.0,
+"low_price": 113546000.0,
+"trade_price": 113546000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T18:00:00",
+"opening_price": 113329000.0,
+"high_price": 113795000.0,
+"low_price": 113328000.0,
+"trade_price": 113553000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T17:50:00",
+"opening_price": 113370000.0,
+"high_price": 113416000.0,
+"low_price": 113274000.0,
+"trade_price": 113406000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T17:40:00",
+"opening_price": 113363000.0,
+"high_price": 113370000.0,
+"low_price": 113198000.0,
+"trade_price": 113370000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T17:30:00",
+"opening_price": 113402000.0,
+"high_price": 113492000.0,
+"low_price": 113354000.0,
+"trade_price": 113363000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T17:20:00",
+"opening_price": 113805000.0,
+"high_price": 113805000.0,
+"low_price": 113392000.0,
+"trade_price": 113402000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T17:10:00",
+"opening_price": 113856000.0,
+"high_price": 113859000.0,
+"low_price": 113721000.0,
+"trade_price": 113734000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T17:00:00",
+"opening_price": 113601000.0,
+"high_price": 113857000.0,
+"low_price": 113590000.0,
+"trade_price": 113800000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T16:50:00",
+"opening_price": 113594000.0,
+"high_price": 113613000.0,
+"low_price": 113560000.0,
+"trade_price": 113602000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T16:40:00",
+"opening_price": 113698000.0,
+"high_price": 113706000.0,
+"low_price": 113558000.0,
+"trade_price": 113594000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T16:30:00",
+"opening_price": 113739000.0,
+"high_price": 113818000.0,
+"low_price": 113698000.0,
+"trade_price": 113698000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T16:20:00",
+"opening_price": 113797000.0,
+"high_price": 113802000.0,
+"low_price": 113666000.0,
+"trade_price": 113696000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T16:10:00",
+"opening_price": 113790000.0,
+"high_price": 113802000.0,
+"low_price": 113663000.0,
+"trade_price": 113797000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T16:00:00",
+"opening_price": 113661000.0,
+"high_price": 113802000.0,
+"low_price": 113542000.0,
+"trade_price": 113790000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T15:50:00",
+"opening_price": 113596000.0,
+"high_price": 113660000.0,
+"low_price": 113537000.0,
+"trade_price": 113660000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T15:40:00",
+"opening_price": 113459000.0,
+"high_price": 113607000.0,
+"low_price": 113418000.0,
+"trade_price": 113565000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T15:30:00",
+"opening_price": 113185000.0,
+"high_price": 113542000.0,
+"low_price": 113184000.0,
+"trade_price": 113459000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T15:20:00",
+"opening_price": 113084000.0,
+"high_price": 113204000.0,
+"low_price": 113000000.0,
+"trade_price": 113174000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T15:10:00",
+"opening_price": 112891000.0,
+"high_price": 113221000.0,
+"low_price": 112813000.0,
+"trade_price": 113084000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T15:00:00",
+"opening_price": 112957000.0,
+"high_price": 112958000.0,
+"low_price": 112813000.0,
+"trade_price": 112881000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T14:50:00",
+"opening_price": 113016000.0,
+"high_price": 113030000.0,
+"low_price": 112930000.0,
+"trade_price": 112957000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T14:40:00",
+"opening_price": 113090000.0,
+"high_price": 113091000.0,
+"low_price": 113000000.0,
+"trade_price": 113016000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T14:30:00",
+"opening_price": 113083000.0,
+"high_price": 113220000.0,
+"low_price": 113035000.0,
+"trade_price": 113090000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T14:20:00",
+"opening_price": 112945000.0,
+"high_price": 113186000.0,
+"low_price": 112944000.0,
+"trade_price": 113033000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T14:10:00",
+"opening_price": 113059000.0,
+"high_price": 113185000.0,
+"low_price": 112930000.0,
+"trade_price": 112945000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T14:00:00",
+"opening_price": 113062000.0,
+"high_price": 113097000.0,
+"low_price": 112799000.0,
+"trade_price": 113059000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T13:50:00",
+"opening_price": 112782000.0,
+"high_price": 113253000.0,
+"low_price": 112752000.0,
+"trade_price": 113062000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T13:40:00",
+"opening_price": 113001000.0,
+"high_price": 113127000.0,
+"low_price": 112682000.0,
+"trade_price": 112757000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T13:30:00",
+"opening_price": 113066000.0,
+"high_price": 113267000.0,
+"low_price": 113000000.0,
+"trade_price": 113001000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T13:20:00",
+"opening_price": 113228000.0,
+"high_price": 113228000.0,
+"low_price": 113000000.0,
+"trade_price": 113066000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T13:10:00",
+"opening_price": 113255000.0,
+"high_price": 113348000.0,
+"low_price": 113161000.0,
+"trade_price": 113229000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T13:00:00",
+"opening_price": 113321000.0,
+"high_price": 113366000.0,
+"low_price": 113254000.0,
+"trade_price": 113254000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T12:50:00",
+"opening_price": 113358000.0,
+"high_price": 113358000.0,
+"low_price": 113304000.0,
+"trade_price": 113337000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T12:40:00",
+"opening_price": 113630000.0,
+"high_price": 113630000.0,
+"low_price": 113296000.0,
+"trade_price": 113358000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T12:30:00",
+"opening_price": 113369000.0,
+"high_price": 113631000.0,
+"low_price": 113298000.0,
+"trade_price": 113611000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T12:20:00",
+"opening_price": 113472000.0,
+"high_price": 113498000.0,
+"low_price": 113323000.0,
+"trade_price": 113379000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T12:10:00",
+"opening_price": 113553000.0,
+"high_price": 113553000.0,
+"low_price": 113472000.0,
+"trade_price": 113472000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T12:00:00",
+"opening_price": 113600000.0,
+"high_price": 113605000.0,
+"low_price": 113520000.0,
+"trade_price": 113553000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T11:50:00",
+"opening_price": 113609000.0,
+"high_price": 113609000.0,
+"low_price": 113527000.0,
+"trade_price": 113600000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T11:40:00",
+"opening_price": 113650000.0,
+"high_price": 113650000.0,
+"low_price": 113557000.0,
+"trade_price": 113607000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T11:30:00",
+"opening_price": 113742000.0,
+"high_price": 113747000.0,
+"low_price": 113649000.0,
+"trade_price": 113649000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T11:20:00",
+"opening_price": 113833000.0,
+"high_price": 113841000.0,
+"low_price": 113719000.0,
+"trade_price": 113740000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T11:10:00",
+"opening_price": 113869000.0,
+"high_price": 113919000.0,
+"low_price": 113831000.0,
+"trade_price": 113833000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T11:00:00",
+"opening_price": 113840000.0,
+"high_price": 113869000.0,
+"low_price": 113770000.0,
+"trade_price": 113869000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T10:50:00",
+"opening_price": 113805000.0,
+"high_price": 113983000.0,
+"low_price": 113773000.0,
+"trade_price": 113840000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T10:40:00",
+"opening_price": 113779000.0,
+"high_price": 113818000.0,
+"low_price": 113687000.0,
+"trade_price": 113807000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T10:30:00",
+"opening_price": 114101000.0,
+"high_price": 114147000.0,
+"low_price": 113760000.0,
+"trade_price": 113779000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T10:20:00",
+"opening_price": 114050000.0,
+"high_price": 114135000.0,
+"low_price": 114035000.0,
+"trade_price": 114101000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T10:10:00",
+"opening_price": 113930000.0,
+"high_price": 114047000.0,
+"low_price": 113865000.0,
+"trade_price": 114046000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T10:00:00",
+"opening_price": 113740000.0,
+"high_price": 113930000.0,
+"low_price": 113560000.0,
+"trade_price": 113863000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T09:50:00",
+"opening_price": 113858000.0,
+"high_price": 113863000.0,
+"low_price": 113730000.0,
+"trade_price": 113740000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T09:40:00",
+"opening_price": 113713000.0,
+"high_price": 113930000.0,
+"low_price": 113650000.0,
+"trade_price": 113858000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T09:30:00",
+"opening_price": 113838000.0,
+"high_price": 113839000.0,
+"low_price": 113713000.0,
+"trade_price": 113726000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T09:20:00",
+"opening_price": 113866000.0,
+"high_price": 113866000.0,
+"low_price": 113800000.0,
+"trade_price": 113832000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T09:10:00",
+"opening_price": 113950000.0,
+"high_price": 113950000.0,
+"low_price": 113861000.0,
+"trade_price": 113861000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T09:00:00",
+"opening_price": 113995000.0,
+"high_price": 113995000.0,
+"low_price": 113919000.0,
+"trade_price": 113950000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T08:50:00",
+"opening_price": 114008000.0,
+"high_price": 114008000.0,
+"low_price": 113993000.0,
+"trade_price": 113995000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T08:40:00",
+"opening_price": 114056000.0,
+"high_price": 114057000.0,
+"low_price": 114003000.0,
+"trade_price": 114008000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T08:30:00",
+"opening_price": 114009000.0,
+"high_price": 114150000.0,
+"low_price": 114003000.0,
+"trade_price": 114056000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T08:20:00",
+"opening_price": 113975000.0,
+"high_price": 114030000.0,
+"low_price": 113968000.0,
+"trade_price": 114009000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T08:10:00",
+"opening_price": 114043000.0,
+"high_price": 114043000.0,
+"low_price": 113975000.0,
+"trade_price": 113975000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T08:00:00",
+"opening_price": 114147000.0,
+"high_price": 114194000.0,
+"low_price": 114014000.0,
+"trade_price": 114043000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T07:50:00",
+"opening_price": 114303000.0,
+"high_price": 114303000.0,
+"low_price": 114134000.0,
+"trade_price": 114193000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T07:40:00",
+"opening_price": 114301000.0,
+"high_price": 114320000.0,
+"low_price": 114276000.0,
+"trade_price": 114300000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T07:30:00",
+"opening_price": 114354000.0,
+"high_price": 114361000.0,
+"low_price": 114300000.0,
+"trade_price": 114300000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T07:20:00",
+"opening_price": 114340000.0,
+"high_price": 114361000.0,
+"low_price": 114282000.0,
+"trade_price": 114308000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T07:10:00",
+"opening_price": 114284000.0,
+"high_price": 114361000.0,
+"low_price": 114283000.0,
+"trade_price": 114341000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T07:00:00",
+"opening_price": 114397000.0,
+"high_price": 114397000.0,
+"low_price": 114282000.0,
+"trade_price": 114284000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T06:50:00",
+"opening_price": 114430000.0,
+"high_price": 114430000.0,
+"low_price": 114363000.0,
+"trade_price": 114397000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T06:40:00",
+"opening_price": 114392000.0,
+"high_price": 114430000.0,
+"low_price": 114392000.0,
+"trade_price": 114430000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T06:30:00",
+"opening_price": 114300000.0,
+"high_price": 114409000.0,
+"low_price": 114273000.0,
+"trade_price": 114397000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T06:20:00",
+"opening_price": 114320000.0,
+"high_price": 114360000.0,
+"low_price": 114275000.0,
+"trade_price": 114300000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T06:10:00",
+"opening_price": 114478000.0,
+"high_price": 114500000.0,
+"low_price": 114319000.0,
+"trade_price": 114320000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T06:00:00",
+"opening_price": 114377000.0,
+"high_price": 114479000.0,
+"low_price": 114362000.0,
+"trade_price": 114478000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T05:50:00",
+"opening_price": 114329000.0,
+"high_price": 114377000.0,
+"low_price": 114316000.0,
+"trade_price": 114377000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T05:40:00",
+"opening_price": 114319000.0,
+"high_price": 114329000.0,
+"low_price": 114220000.0,
+"trade_price": 114329000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T05:30:00",
+"opening_price": 114324000.0,
+"high_price": 114377000.0,
+"low_price": 114220000.0,
+"trade_price": 114230000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T05:20:00",
+"opening_price": 114222000.0,
+"high_price": 114356000.0,
+"low_price": 114216000.0,
+"trade_price": 114324000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T05:10:00",
+"opening_price": 114109000.0,
+"high_price": 114229000.0,
+"low_price": 114102000.0,
+"trade_price": 114222000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T05:00:00",
+"opening_price": 114009000.0,
+"high_price": 114109000.0,
+"low_price": 113975000.0,
+"trade_price": 114109000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T04:50:00",
+"opening_price": 114107000.0,
+"high_price": 114118000.0,
+"low_price": 114000000.0,
+"trade_price": 114000000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T04:40:00",
+"opening_price": 114110000.0,
+"high_price": 114120000.0,
+"low_price": 114050000.0,
+"trade_price": 114107000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T04:30:00",
+"opening_price": 114140000.0,
+"high_price": 114140000.0,
+"low_price": 114076000.0,
+"trade_price": 114110000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T04:20:00",
+"opening_price": 114180000.0,
+"high_price": 114180000.0,
+"low_price": 114103000.0,
+"trade_price": 114140000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T04:10:00",
+"opening_price": 114245000.0,
+"high_price": 114245000.0,
+"low_price": 114179000.0,
+"trade_price": 114180000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T04:00:00",
+"opening_price": 114319000.0,
+"high_price": 114320000.0,
+"low_price": 114233000.0,
+"trade_price": 114245000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T03:50:00",
+"opening_price": 114355000.0,
+"high_price": 114377000.0,
+"low_price": 114300000.0,
+"trade_price": 114319000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T03:40:00",
+"opening_price": 114324000.0,
+"high_price": 114355000.0,
+"low_price": 114300000.0,
+"trade_price": 114322000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T03:30:00",
+"opening_price": 114290000.0,
+"high_price": 114374000.0,
+"low_price": 114256000.0,
+"trade_price": 114324000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T03:20:00",
+"opening_price": 114462000.0,
+"high_price": 114463000.0,
+"low_price": 114289000.0,
+"trade_price": 114300000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T03:10:00",
+"opening_price": 114480000.0,
+"high_price": 114494000.0,
+"low_price": 114355000.0,
+"trade_price": 114462000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T03:00:00",
+"opening_price": 114246000.0,
+"high_price": 114481000.0,
+"low_price": 114200000.0,
+"trade_price": 114469000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T02:50:00",
+"opening_price": 114251000.0,
+"high_price": 114252000.0,
+"low_price": 114213000.0,
+"trade_price": 114247000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T02:40:00",
+"opening_price": 114278000.0,
+"high_price": 114300000.0,
+"low_price": 114177000.0,
+"trade_price": 114251000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T02:30:00",
+"opening_price": 114137000.0,
+"high_price": 114455000.0,
+"low_price": 114086000.0,
+"trade_price": 114278000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T02:20:00",
+"opening_price": 114384000.0,
+"high_price": 114502000.0,
+"low_price": 114061000.0,
+"trade_price": 114136000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T02:10:00",
+"opening_price": 114460000.0,
+"high_price": 114569000.0,
+"low_price": 114231000.0,
+"trade_price": 114385000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T02:00:00",
+"opening_price": 114985000.0,
+"high_price": 114985000.0,
+"low_price": 114103000.0,
+"trade_price": 114401000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T01:50:00",
+"opening_price": 115570000.0,
+"high_price": 115570000.0,
+"low_price": 114979000.0,
+"trade_price": 114979000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T01:40:00",
+"opening_price": 115560000.0,
+"high_price": 115600000.0,
+"low_price": 115558000.0,
+"trade_price": 115570000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T01:30:00",
+"opening_price": 115600000.0,
+"high_price": 115657000.0,
+"low_price": 115559000.0,
+"trade_price": 115560000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T01:20:00",
+"opening_price": 115709000.0,
+"high_price": 115709000.0,
+"low_price": 115590000.0,
+"trade_price": 115602000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T01:10:00",
+"opening_price": 115873000.0,
+"high_price": 115876000.0,
+"low_price": 115700000.0,
+"trade_price": 115709000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T01:00:00",
+"opening_price": 115875000.0,
+"high_price": 115876000.0,
+"low_price": 115856000.0,
+"trade_price": 115876000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T00:50:00",
+"opening_price": 115877000.0,
+"high_price": 115877000.0,
+"low_price": 115870000.0,
+"trade_price": 115875000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T00:40:00",
+"opening_price": 115867000.0,
+"high_price": 115971000.0,
+"low_price": 115850000.0,
+"trade_price": 115875000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T00:30:00",
+"opening_price": 115784000.0,
+"high_price": 115969000.0,
+"low_price": 115777000.0,
+"trade_price": 115875000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T00:20:00",
+"opening_price": 115914000.0,
+"high_price": 115967000.0,
+"low_price": 115779000.0,
+"trade_price": 115779000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T00:10:00",
+"opening_price": 115820000.0,
+"high_price": 115965000.0,
+"low_price": 115815000.0,
+"trade_price": 115914000.0
+},
+{
+"candle_date_time_utc": "2026-10-07T00:00:00",
+"opening_price": 115969000.0,
+"high_price": 115990000.0,
+"low_price": 115770000.0,
+"trade_price": 115814000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T23:50:00",
+"opening_price": 116010000.0,
+"high_price": 116054000.0,
+"low_price": 115964000.0,
+"trade_price": 115969000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T23:40:00",
+"opening_price": 115863000.0,
+"high_price": 116020000.0,
+"low_price": 115863000.0,
+"trade_price": 116010000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T23:30:00",
+"opening_price": 115820000.0,
+"high_price": 115863000.0,
+"low_price": 115656000.0,
+"trade_price": 115863000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T23:20:00",
+"opening_price": 115843000.0,
+"high_price": 115876000.0,
+"low_price": 115781000.0,
+"trade_price": 115820000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T23:10:00",
+"opening_price": 115892000.0,
+"high_price": 115945000.0,
+"low_price": 115818000.0,
+"trade_price": 115843000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T23:00:00",
+"opening_price": 115900000.0,
+"high_price": 115954000.0,
+"low_price": 115838000.0,
+"trade_price": 115854000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T22:50:00",
+"opening_price": 115922000.0,
+"high_price": 115946000.0,
+"low_price": 115864000.0,
+"trade_price": 115900000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T22:40:00",
+"opening_price": 115911000.0,
+"high_price": 115981000.0,
+"low_price": 115838000.0,
+"trade_price": 115922000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T22:30:00",
+"opening_price": 115836000.0,
+"high_price": 115920000.0,
+"low_price": 115836000.0,
+"trade_price": 115911000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T22:20:00",
+"opening_price": 115879000.0,
+"high_price": 115963000.0,
+"low_price": 115836000.0,
+"trade_price": 115871000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T22:10:00",
+"opening_price": 115993000.0,
+"high_price": 115995000.0,
+"low_price": 115865000.0,
+"trade_price": 115879000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T22:00:00",
+"opening_price": 116088000.0,
+"high_price": 116088000.0,
+"low_price": 115937000.0,
+"trade_price": 115994000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T21:50:00",
+"opening_price": 116057000.0,
+"high_price": 116089000.0,
+"low_price": 116009000.0,
+"trade_price": 116038000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T21:40:00",
+"opening_price": 116092000.0,
+"high_price": 116092000.0,
+"low_price": 116012000.0,
+"trade_price": 116057000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T21:30:00",
+"opening_price": 115995000.0,
+"high_price": 116092000.0,
+"low_price": 115988000.0,
+"trade_price": 116092000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T21:20:00",
+"opening_price": 115944000.0,
+"high_price": 115999000.0,
+"low_price": 115900000.0,
+"trade_price": 115989000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T21:10:00",
+"opening_price": 115942000.0,
+"high_price": 116020000.0,
+"low_price": 115903000.0,
+"trade_price": 115940000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T21:00:00",
+"opening_price": 116000000.0,
+"high_price": 116055000.0,
+"low_price": 115900000.0,
+"trade_price": 115941000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T20:50:00",
+"opening_price": 116073000.0,
+"high_price": 116081000.0,
+"low_price": 116000000.0,
+"trade_price": 116000000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T20:40:00",
+"opening_price": 116087000.0,
+"high_price": 116110000.0,
+"low_price": 116001000.0,
+"trade_price": 116073000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T20:30:00",
+"opening_price": 116055000.0,
+"high_price": 116128000.0,
+"low_price": 116000000.0,
+"trade_price": 116000000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T20:20:00",
+"opening_price": 116053000.0,
+"high_price": 116070000.0,
+"low_price": 116016000.0,
+"trade_price": 116055000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T20:10:00",
+"opening_price": 116033000.0,
+"high_price": 116054000.0,
+"low_price": 115937000.0,
+"trade_price": 116053000.0
+},
+{
+"candle_date_time_utc": "2026-10-06T20:00:00",
+"opening_price": 115997000.0,
+"high_price": 116053000.0,
+"low_price": 115915000.0,
+"trade_price": 115937000.0
+}
+]
