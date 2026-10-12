@@ -1,0 +1,223 @@
+{
+  "contract": "0x91457Bb9E54ACB4baE6f9a098c140fFBe0499747",
+  "network": "studionet",
+  "caller": "0xd417e4e50c04FA6B3A71Abf32AFfbD6ce2839B39",
+  "prices_at_post": {
+    "KRW-BTC": 113505000,
+    "KRW-XRP": 1906,
+    "KRW-SOL": 151100
+  },
+  "posts": [
+    {
+      "message": "비트 숏 지금 진입\n손절 1억1385만\n목표 1억1328만\n1시간 단타",
+      "tx": "0xd6095ba8de0c084958d6fde47af55a197261e18a020f3a0ac1aa678339f0201f",
+      "exec": "SUCCESS",
+      "votes": [
+        "agree",
+        "agree",
+        "agree",
+        "idle",
+        "idle"
+      ],
+      "rejection": null,
+      "call_id": 0,
+      "call": {
+        "caller": "0xd417e4e50c04FA6B3A71Abf32AFfbD6ce2839B39",
+        "entry": null,
+        "horizon_hours": 1,
+        "market": "KRW-BTC",
+        "message": "비트 숏 지금 진입\n손절 1억1385만\n목표 1억1328만\n1시간 단타",
+        "message_sha256": "45b195bf939c25dfb69ddc03923cd599349a408ddba0f0b23ff6fc6c2c3b3932",
+        "posted_at": 1791767055,
+        "ref_price": "113500000",
+        "result": {},
+        "side": "short",
+        "status": "open",
+        "stop": "113850000",
+        "targets": [
+          "113280000"
+        ]
+      }
+    },
+    {
+      "message": "리플 시장가 롱 🚀\n손절 1899\n1차 1911 2차 1917\n1시간 봅니다",
+      "tx": "0x602e2b9dbc510b469d21e0ef6e63ee9a5cdf53430e2c665fae8ed1c290abaeda",
+      "exec": "SUCCESS",
+      "votes": [
+        "agree",
+        "idle",
+        "idle",
+        "agree",
+        "agree"
+      ],
+      "rejection": null,
+      "call_id": 1,
+      "call": {
+        "caller": "0xd417e4e50c04FA6B3A71Abf32AFfbD6ce2839B39",
+        "entry": null,
+        "horizon_hours": 1,
+        "market": "KRW-XRP",
+        "message": "리플 시장가 롱 🚀\n손절 1899\n1차 1911 2차 1917\n1시간 봅니다",
+        "message_sha256": "1941704ebb177df4ba93768fa9b92e590e1cc877350fce6e5c850181b476a0da",
+        "posted_at": 1791767093,
+        "ref_price": "1907",
+        "result": {},
+        "side": "long",
+        "status": "open",
+        "stop": "1899",
+        "targets": [
+          "1911",
+          "1917"
+        ]
+      }
+    },
+    {
+      "message": "솔 14만6600 눌림 롱 대기\n손절 14만5100\n목표 15만2600 (1시간)",
+      "tx": "0x7493c9adc5647ce8dfc2af7b68b519d8a1faec4511955eb1caf558153e1a7eee",
+      "exec": "SUCCESS",
+      "votes": [
+        "agree",
+        "agree",
+        "idle",
+        "agree",
+        "idle"
+      ],
+      "rejection": null,
+      "call_id": 2,
+      "call": {
+        "caller": "0xd417e4e50c04FA6B3A71Abf32AFfbD6ce2839B39",
+        "entry": "146600",
+        "horizon_hours": 1,
+        "market": "KRW-SOL",
+        "message": "솔 14만6600 눌림 롱 대기\n손절 14만5100\n목표 15만2600 (1시간)",
+        "message_sha256": "412a4e5c5bda69ec1850f243b96d3affbeea4ab3e5d4638b5736dc57d347669c",
+        "posted_at": 1791767132,
+        "ref_price": "151300",
+        "result": {},
+        "side": "long",
+        "status": "open",
+        "stop": "145100",
+        "targets": [
+          "152600"
+        ]
+      }
+    },
+    {
+      "message": "도지 오늘 밤 큰 거 옵니다 🚀 다들 홀딩하세요",
+      "tx": "0xffb5155187d201ee79b4efe93ee82e07e1f92789de860291a3bedfab78d6e711",
+      "exec": "ERROR",
+      "votes": [
+        "agree",
+        "agree",
+        "idle",
+        "agree",
+        "idle"
+      ],
+      "rejection": "[EXPECTED] not a complete call: needs a coin, a side, a stop and a target",
+      "call_id": null,
+      "call": null
+    },
+    {
+      "message": "리플 롱 지금 진입\n손절 1946\n목표 1996",
+      "tx": "0x3f4d3976181870e40707ae531bcb34132b368f5533cf8d9ddff2bbd80ed32641",
+      "exec": "ERROR",
+      "votes": [
+        "agree",
+        "idle",
+        "agree",
+        "agree",
+        "idle"
+      ],
+      "rejection": "[EXPECTED] levels don't fit a long: need stop < entry < targets (price now 1908)",
+      "call_id": null,
+      "call": null
+    }
+  ],
+  "settles": [
+    {
+      "call_id": 0,
+      "tx": "0x88d7f6d45c9e98d5863eb796d259686dfaf467d641b8a27694a79aeda8acb382",
+      "exec": "SUCCESS",
+      "votes": [
+        "idle",
+        "agree",
+        "agree",
+        "idle",
+        "agree"
+      ],
+      "message": "",
+      "status": "settled",
+      "result": {
+        "ambiguous": false,
+        "closed_at": 1791768000,
+        "fill": "113450000",
+        "filled_at": 1791767400,
+        "final": true,
+        "outcome": "won",
+        "r": "0.42",
+        "targets_hit": 1
+      }
+    },
+    {
+      "call_id": 1,
+      "tx": "0x333b3118a7f68f4219fd5244cefb0b283c0d8d3369c2f299541c59c400e02bbd",
+      "exec": "SUCCESS",
+      "votes": [
+        "agree",
+        "agree",
+        "idle",
+        "agree",
+        "idle"
+      ],
+      "message": "",
+      "status": "settled",
+      "result": {
+        "ambiguous": false,
+        "closed_at": 1791768000,
+        "fill": "1906",
+        "filled_at": 1791767400,
+        "final": true,
+        "outcome": "stopped",
+        "r": "-1",
+        "targets_hit": 0
+      }
+    },
+    {
+      "call_id": 2,
+      "tx": "0x5d01aa2c63902ac7ff15cd6f8dc9613ff80a6f8a124b1ff9c7d62eddec0a026d",
+      "exec": "SUCCESS",
+      "votes": [
+        "agree",
+        "agree",
+        "idle",
+        "idle",
+        "agree"
+      ],
+      "message": "",
+      "status": "settled",
+      "result": {
+        "ambiguous": false,
+        "closed_at": 1791769800,
+        "fill": null,
+        "filled_at": null,
+        "final": true,
+        "outcome": "unfilled",
+        "r": "0",
+        "targets_hit": 0
+      }
+    }
+  ],
+  "record": {
+    "calls": [
+      0,
+      1,
+      2
+    ],
+    "expired": 0,
+    "settled": 3,
+    "stopped": 1,
+    "total_r": "-0.58",
+    "unfilled": 1,
+    "won": 1
+  }
+}
